@@ -10,7 +10,7 @@
 <p>CYCLE DETECTOR: https://replit.com/@raetansl/tortoise-and-hare-cycle-detector</p>
 
 <h2>Follow me on</h2>
-<a href="www.linkedin.com/in/rae-tan-a01a1a232">Linkedln</a>
+<a href="https://www.linkedin.com/in/rae-tan-a01a1a232/">Linkedln</a>
 
 <h2>Contact</h2>
 📫 Email: tanszelui@gmail.com
