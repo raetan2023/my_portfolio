@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m @raetan2023</h1>
 
 <h2>My projects:</h2>
-- 2023 SUMMARY PROJECT: https://github.com/kantanaforever/2023-summary-project
+<p>2023 SUMMARY PROJECT: https://github.com/kantanaforever/2023-summary-project</p> 
 - CYCLE DETECTOR: https://replit.com/@raetansl/tortoise-and-hare-cycle-detector
 
 👀 I’m interested in data structures, algorithms, front-end web development, and cybersecurity (specifically osint)
