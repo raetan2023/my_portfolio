@@ -5,11 +5,11 @@
 <p> Currently taking H2 Computing in JC</p>
 <p> Looking to collaborate on any IT-related projects</p> 
 
-<h2>My projects:</h2>
+<h2>My projects</h2>
 <p>2023 SUMMARY PROJECT: https://github.com/kantanaforever/2023-summary-project</p> 
 <p>CYCLE DETECTOR: https://replit.com/@raetansl/tortoise-and-hare-cycle-detector</p>
 
-<h2>Follow me on:</h2>
+<h2>Follow me on</h2>
 <a href="www.linkedin.com/in/rae-tan-a01a1a232">Linkedln</a>
 
 <h2>Contact</h2>
